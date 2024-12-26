@@ -8,7 +8,7 @@ export default function Dashboard() {
   ];
 
   const products = [
-    { id: "P-01", name: "Pangsit Mayo", price: 10000, image: "https://firebasestorage.googleapis.com/v0/b/isenafktp.appspot.com/o/mayones.jpeg?alt=media&token=937219c1-9953-4ef7-989b-a1b54f94a4bc" },
+    { id: "P-01", name: "Pangsit Tiramisu", price: 10000, image: "https://firebasestorage.googleapis.com/v0/b/isenafktp.appspot.com/o/mayones.jpeg?alt=media&token=937219c1-9953-4ef7-989b-a1b54f94a4bc" },
     { id: "P-02", name: "Pangsit Chocolate", price: 10000, image: "https://firebasestorage.googleapis.com/v0/b/isenafktp.appspot.com/o/coklat.jpeg?alt=media&token=cd3d0774-bb7e-4953-87f8-3d3df9fa0ae9" },
     { id: "P-03", name: "Pangsit Balado", price: 10000, image: "https://firebasestorage.googleapis.com/v0/b/isenafktp.appspot.com/o/balado.jpeg?alt=media&token=04a8118d-7b29-4f10-902c-557cc771faad" },
   ];
