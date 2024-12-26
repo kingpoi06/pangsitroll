@@ -13,7 +13,7 @@ export default function Dashboard() {
     { id: "P-03", name: "Pangsit Balado", price: 10000, image: "https://firebasestorage.googleapis.com/v0/b/isenafktp.appspot.com/o/balado.jpeg?alt=media&token=04a8118d-7b29-4f10-902c-557cc771faad" },
   ];
 
-  const whatsappNumber = "6281337463088"; // Ganti dengan nomor WhatsApp Anda
+  const whatsappNumber = "6282235344593"; // Ganti dengan nomor WhatsApp Anda
   const whatsappMessage = "Halo, saya ingin memesan Pangsit Roll Anda!";
 
   return (
