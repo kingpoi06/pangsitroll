@@ -72,7 +72,7 @@ export default function Dashboard() {
           {/* Footer at the bottom of Sidebar */}
           <footer className="mt-auto bg-white-700 text-grey text-center py-4">
             <p className="text-sm">
-              © {new Date().getFullYear()} Pangsit Roll. Kelompok 6. All rights reserved.
+              © {new Date().getFullYear()} Pangsit Roll. All rights reserved.
             </p>
           </footer>
         </aside>
